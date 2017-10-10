@@ -16,7 +16,7 @@ public class DataBaseHandler extends SQLiteOpenHelper{
 
     @Override
     public void onCreate(SQLiteDatabase db) {
-
+    //yhyg
     }
 
     @Override
